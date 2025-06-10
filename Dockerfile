@@ -10,3 +10,5 @@ EXPOSE 80
 
 # No need to specify CMD or ENTRYPOINT as the nginx:alpine image already has this defined.
 # When you run the container, nginx will start automatically and serve your index.html on port 80.
+
+#
