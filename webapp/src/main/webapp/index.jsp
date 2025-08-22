@@ -325,7 +325,7 @@
         <div class="content-card">
             <h2><strong>Creating a complete CI/CD Pipeline using a single server as both my Jenkins and Docker Server.</strong></h2>
             
-            <h2><strong>Given that it is only one Ubuntu  functioning as both a Docker and Jenkins server, it is important</strong></h2>
+            <h2><strong>Given that it is only one Ubuntu server functioning as both a Docker and Jenkins server, it is important</strong></h2>
             
             <h2><strong>to note that the <span class="highlight">jenkins is added to the docker group</span> if docker commands will be accepted on that server.</strong></h2>
             
