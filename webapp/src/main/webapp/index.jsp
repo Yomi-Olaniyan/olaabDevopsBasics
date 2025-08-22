@@ -3,3 +3,6 @@
 <h2><bold>to note that the jenkins is added to the docker group if docker commands will be accepted on that server.</bold></h2>
 
 <h1><bold>DEVOPS MAKES AUTOMATION  REALLY INTERESTING!</bold></h1>
+
+<h2>QUESTIOONS:</h2>
+<h3>1. What happens if the dockerfile and webapp are have their owner changed to 'olaab'?</h3>
