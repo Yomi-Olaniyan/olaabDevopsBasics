@@ -4,5 +4,5 @@
 
 <h1><bold>DEVOPS MAKES AUTOMATION  REALLY INTERESTING!</bold></h1>
 
-<h2>QUESTIOONS:</h2>
-<h3>1. What happens if the dockerfile and webapp are have their owner changed to 'olaab'?</h3>
+<h2>QUESTIONS:</h2>
+<h3>1. What happens if the dockerfile are have its owner and group changed recursively to 'olaab'?</h3>
