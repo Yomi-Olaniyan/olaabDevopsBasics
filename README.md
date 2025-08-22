@@ -1,3 +1,5 @@
+# Link to a graphical illustration of the steps involved in solving the problem: https://claude.ai/public/artifacts/b2f9d0e4-a155-439c-ad85-39b3ec895d08
+#The other link is: https://claude.ai/public/artifacts/fd6bedb1-d1ba-47ab-ab69-c98e22a5c001
 # Single-Server CI/CD Pipeline
 
 A complete Continuous Integration and Continuous Deployment (CI/CD) pipeline implementation using Jenkins and Docker on a single Ubuntu server.
