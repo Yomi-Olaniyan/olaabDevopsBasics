@@ -217,7 +217,19 @@
 
         <div class="carousel-wrapper">
             <div class="carousel-slides" id="slides">
-                <!-- Slide 1: Docker Introduction -->
+                <!-- Slide 1: Introduction -->
+                <div class="slide">
+                    <h2>Welcome to the Guide!</h2>
+                    <p>Using automation tools like Jenkins and Kubernetes can feel like one is in hell from the beginning!</p>
+                    
+                    <p>For the sake of fellow trainees, this guide will help you overcome the teething challenges. I've removed the redundancies and details capable of confusing you.</p>
+                    
+                    <p><strong>Let's separate the wheat from the chaff</strong></p>
+                    
+                    <p>This interactive guide will walk you through Docker concepts step by step, using examples and explanations that make sense to trainees who have worked with web servers before but are getting confused by containerization terminology.</p>
+                </div>
+
+                <!-- Slide 2: Docker Introduction -->
                 <div class="slide">
                     <h2>Docker Is a Powerful Tool!!!</h2>
                     <p>Of all things you should know about Docker, you should know what it does and why you're using it.</p>
@@ -229,7 +241,7 @@
                     <p>An Image or App can also be the totality of a 3-tier product, which comprises of the frontend, the backend and the database – only a part of it that is served over the web page is the one they want you to see or interact with.</p>
                 </div>
 
-                <!-- Slide 2: Base Images -->
+                <!-- Slide 3: Base Images -->
                 <div class="slide">
                     <h2>IMAGE, WEBAPP, DOCKERFILE – Manual Deployment</h2>
                     <p>Your image is ready? What's next?</p>
@@ -239,7 +251,7 @@
                     <p>Another Question! Does it mean we can't build an image without a base? No! You can well build an image without a base. In fact, we don't need a base to build an image – if you follow from where we started above, it shows we had an image before mentioning anything called base. So why do we need it? So that we can use somebody else's work to model ours.</p>
                 </div>
 
-                <!-- Slide 3: Types of Bases -->
+                <!-- Slide 4: Types of Bases -->
                 <div class="slide">
                     <h2>TYPES OF BASES/IMAGES</h2>
                     <p>There are images for web service! There are images for Database! Ok? Does that make sense to you?</p>
@@ -251,11 +263,7 @@
                     <p>Don't forget our question above, ok? Next question: how do I know which one to choose from nginx, apache2/httpd, or TOMCAT? This answer lies in the kind of language with which your own image was written and the kind of contents that will be served by your web page when is ready!</p>
                     
                     <p><strong>For example:</strong></p>
-                </div>
-
-                <!-- Slide 4: Base Images Table -->
-                <div class="slide">
-                    <h2>Base Images & Their Purposes</h2>
+                    
                     <div class="table-container">
                         <table>
                             <thead>
